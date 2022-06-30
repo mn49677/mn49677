@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Max!
-- 👀 I’m interested in C# and C++ programming languages and differences in using them, backend, a bit of html and css and software architecture
-- 🌱 I’m currently learning C++ mostly
+- 👀 I’m interested in C# and Swift programming languages, a bit of html and css and software architecture
